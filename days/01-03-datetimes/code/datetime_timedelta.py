@@ -30,7 +30,7 @@ eta = timedelta(hours=6)
 today = datetime.today()
 
 today
-#datetime.datetime(2018, 2, 19, 14, 55, 19, 197404
+#datetime.datetime(2018, 2, 19, 14, 55, 19, 197404)
 
 today + eta
 #datetime.datetime(2018, 2, 19, 20, 55, 19, 197404)
